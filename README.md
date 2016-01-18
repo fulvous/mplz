@@ -1,9 +1,13 @@
 # Instalación
+````
 cd /usr/local/lib/node_modules
-git clone git@github.com:fulvous/mplz.git
-mplz init or copy existin mplz.json
-mplz deploy
 
+git clone git@github.com:fulvous/mplz.git
+
+mplz init or copy existin mplz.json
+
+mplz deploy
+````
 
 # meteor-please
 [![npm version](https://badge.fury.io/js/mplz.svg)](http://badge.fury.io/js/mplz)
