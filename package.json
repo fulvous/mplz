@@ -1,0 +1,61 @@
+{
+  "name": "mplz",
+  "version": "0.1.14",
+  "description": "Simple Meteor Deployment for RHEL/CentOS 7+",
+  "dependencies": {
+    "nodemiral-forcetty": "0.4.x",
+    "colors": "0.3.x",
+    "underscore": "1.7.0",
+    "cjson": "0.3.x",
+    "prompt": "0.2.x",
+    "prompt-improved": "0.1.x",
+    "jsonfile": "2.0.0"
+  },
+  "bin": {
+    "mplz": "./bin/mplz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hellstad/meteor-please.git"
+  },
+  "keywords": [
+    "mplz",
+    "meteor",
+    "deploy",
+    "centos",
+    "rhel",
+    "fedora"
+  ],
+  "author": {
+    "name": "Kevin van Guldenaar",
+    "email": "kevin@kevincharm.com"
+  },
+  "license": "MIT",
+  "gitHead": "af7f6db330d4d2f01fce88c4078e7beeec2e4bdb",
+  "bugs": {
+    "url": "https://github.com/hellstad/meteor-please/issues"
+  },
+  "homepage": "https://github.com/hellstad/meteor-please",
+  "_id": "mplz@0.1.14",
+  "scripts": {},
+  "_shasum": "74884a78164600f95816125c3ecfd8397bc6894f",
+  "_from": "mplz@",
+  "_npmVersion": "2.5.0",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "hellstad",
+    "email": "kevin@kevincharm.com"
+  },
+  "maintainers": [
+    {
+      "name": "hellstad",
+      "email": "kevin@kevincharm.com"
+    }
+  ],
+  "dist": {
+    "shasum": "74884a78164600f95816125c3ecfd8397bc6894f",
+    "tarball": "http://registry.npmjs.org/mplz/-/mplz-0.1.14.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mplz/-/mplz-0.1.14.tgz"
+}
